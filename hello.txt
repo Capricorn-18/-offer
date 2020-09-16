@@ -1,6 +1,2 @@
-hello world
-good morning
-<<<<<<< HEAD
-fack
-=======
-i only love myself
+
+1111111
